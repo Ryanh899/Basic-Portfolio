@@ -1,0 +1,19 @@
+.container {
+    position: relative; 
+    height: 940px 
+}
+
+.polaroid {
+    position: absolute; 
+    float: left;
+     
+}
+
+.right {
+    float: left; 
+    position: absolute;
+    left: 300px;
+    top: 50px; 
+    
+}
+    
