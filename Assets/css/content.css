@@ -3,3 +3,28 @@ h2 {
     color: #4aaaa5; 
     padding: 3px;
 }
+
+form { 
+    position: relative; 
+}
+
+input {
+     width: 881px;
+     padding: 5px; 
+     margin: 8px; 
+     position: relative; 
+     
+}
+
+.message {
+    padding: 70px; 
+    width: 750px
+}
+
+button {
+    background: #4aaaa5;
+    border: none; 
+    color: white; 
+    text-align: center; 
+    padding: 10px 25px 
+}
