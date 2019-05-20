@@ -8,7 +8,7 @@ img {
     width: 250px; 
 }
 	
-.first  {
+.first {
     position: relative; 
     float: left; 
     padding: 10px; 
@@ -37,11 +37,54 @@ img {
     
 }
 
-.all {
-    
+.text1 {
+    position: absolute; 
+    top: 120px;  
+    background: teal; 
+    width: 250px; 
+    text-align: center;
+    color: white; 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+ 
+.text2 {
+    position: absolute; 
+    top: 120px; 
+    background: teal; 
+    width: 250px; 
+    text-align: center; 
+    left: 10px; 
+    color: white; 
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-     
+.text3 {
+    position: absolute; 
+    top: 120px; 
+    background: teal; 
+    width: 250px; 
+    text-align: center; 
+    color: white; 
+    font-family: 'Georgia', Times, Times New Roman, serif;   
+}    
 
+.text4 {
+    position: absolute; 
+    top: 120px; 
+    background: teal; 
+    width: 250px; 
+    text-align: center; 
+    color: white; 
+    font-family: 'Georgia', Times, Times New Roman, serif;  
+}
 
-    
+.text5 {
+    position: absolute; 
+    top: 125px; 
+    background: teal; 
+    width: 250px; 
+    text-align: center;
+    padding: 15px 0px; 
+    color: white; 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
